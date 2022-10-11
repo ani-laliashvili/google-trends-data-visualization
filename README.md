@@ -1,4 +1,4 @@
-# google-trends-data-visualization
+# Google Trends analysis
 
 This Jupyter Notebook explores the correlation between google trends, unemployment rate, TSLA stock price and BTC price using Pandas and Matplotlib.
 
